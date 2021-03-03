@@ -8,3 +8,5 @@ The timer is disabled on StopAsync and disposed when the service container is di
 
 HostedServiceScoped:
 Hosted service that activates a scoped service. The scoped service can use dependency injection (DI).
+
+Tennis Booking V1: A simple WeatherCacheService which inherits from a Background Service.
